@@ -63,8 +63,7 @@ static void PrintAverageAgeByGenre(List<Employee> employeesList)
         }
     }
 
-    Console.WriteLine();
-    Console.WriteLine();
+    Console.Clear();
 
     foreach (var item in genreAndAverageAge)
     {
