@@ -168,7 +168,7 @@ static string ShowMenu()
 
 static string ShowHeader()
 {
-    return "Implementing the FNZ interview test";
+    return "Implementing the one interview test better";
 }
 
 //Helper

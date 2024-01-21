@@ -24,7 +24,7 @@ namespace AgeAvarageExperiment.Model
 
             set
             {
-                // The name must have more than 10 Characters
+                // The name must have more than 3 Characters
                 if (value.Length < 3)
                 {
                     throw new FormatException("Name most have more than 10 Chars");
